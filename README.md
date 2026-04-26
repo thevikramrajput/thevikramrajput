@@ -84,16 +84,15 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevikramrajput&layout=compact&bg_color=0d1117&title_color=EA2E00&text_color=F0E7D6&hide_border=true&langs_count=8" />
     </td>
+    <td align="center">
+    <img src="https://komarev.com/ghpvc/?username=thevikramrajput&label=Profile+Views&color=EA2E00&labelColor=0d1117&style=for-the-badge" />
+    </td>
+
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thevikramrajput&label=👁️+Profile+Views&color=EA2E00&labelColor=0d1117&style=for-the-badge" />
-</p>
-
 <br>
 
 ## 🏆 Experience Snapshot
