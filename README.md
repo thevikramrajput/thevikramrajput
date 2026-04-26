@@ -1,7 +1,5 @@
 <!-- ===== CLEAN PREMIUM BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e293b&height=180&section=header&text=Vikram%20Madhad&fontSize=42&fontColor=38BDF8&animation=fadeIn"/>
-</p>
+
 
 <h1 align="center">⚡ Vikram Madhad ⚡</h1>
 
@@ -103,14 +101,6 @@
 
 <br>
 
-## 🎯 Goals
-
-- Build impactful AI systems  
-- Crack top tech internships  
-- Contribute to open-source AI  
-- Strengthen system design & engineering depth  
-
-<br>
 
 ## 🌐 Connect With Me
 
