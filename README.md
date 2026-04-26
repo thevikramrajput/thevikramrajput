@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <h1 align="center">⚡ Vikram Madhad ⚡</h1>
-<h3 align="center">🤖 AI/ML Engineer • Data-Driven Builder • Future Founder</h3>
+<!-- <h3 align="center">🤖 AI/ML Engineer • Data-Driven Builder • Future Founder</h3> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer;Deep+Learning+Enthusiast;Data+Driven+Problem+Solver;Future+MS+Student+🇺🇸;Building+Impactful+Systems&center=true&width=600&height=50">
