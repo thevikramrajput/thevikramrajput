@@ -76,14 +76,21 @@
 
 ## 📊 GitHub Intelligence
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=thevikramrajput&show_icons=true&bg_color=0d1117&title_color=EA2E00&text_color=F0E7D6&icon_color=9DBDB8&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevikramrajput&background=0d1117&ring=EA2E00&fire=EA2E00&currStreakNum=F0E7D6&sideNums=F0E7D6&currStreakLabel=9DBDB8&sideLabels=9DBDB8&dates=F0E7D6&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevikramrajput&layout=compact&bg_color=0d1117&title_color=EA2E00&text_color=F0E7D6&hide_border=true&langs_count=8" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=thevikramrajput&show_icons=true&bg_color=0d1117&title_color=EA2E00&text_color=F0E7D6&icon_color=9DBDB8&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevikramrajput&background=0d1117&ring=EA2E00&fire=EA2E00&currStreakNum=F0E7D6&sideNums=F0E7D6&currStreakLabel=9DBDB8&sideLabels=9DBDB8&dates=F0E7D6&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevikramrajput&layout=compact&bg_color=0d1117&title_color=EA2E00&text_color=F0E7D6&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
