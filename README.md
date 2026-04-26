@@ -3,9 +3,7 @@
 
 <h1 align="center">⚡ Vikram Madhad ⚡</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thevikramrajput&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer;Deep+Learning+Enthusiast;Automation+%26+Cloud+Explorer;Building+Impactful+Systems&center=true&width=600&height=50">
@@ -91,6 +89,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thevikramrajput&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <br>
 
