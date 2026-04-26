@@ -91,7 +91,7 @@
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thevikramrajput&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=thevikramrajput&label=👁️+Profile+Views&color=EA2E00&labelColor=0d1117&style=for-the-badge" />
 </p>
 
 <br>
