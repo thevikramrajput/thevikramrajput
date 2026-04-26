@@ -1,8 +1,17 @@
+<!-- ===== BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Vikram%20Madhad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <!-- ===== HEADER ===== -->
 <h1 align="center">⚡ Vikram Madhad ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer;Deep+Learning+Enthusiast;Automation+%26+Cloud+Explorer;Future+MS+Student+🇺🇸;Building+Impactful+Systems&center=true&width=600&height=50">
+  <img src="https://komarev.com/ghpvc/?username=thevikramrajput&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer;Deep+Learning+Enthusiast;Automation+%26+Cloud+Explorer;Building+Impactful+Systems&center=true&width=600&height=50">
 </p>
 
 ---
@@ -46,13 +55,11 @@
 
 ---
 
-### 🌐 Development & Frameworks
+### ⚙️ Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 ---
@@ -66,13 +73,10 @@
 
 ---
 
-### 🔄 Automation & Tools
+### 🔄 Automation
 <p>
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -98,7 +102,7 @@
 
 - 📊 Data Analytics Intern (SQL, Python, Power BI)  
 - 🤖 Built ML systems across NLP, CV & prediction  
-- 🔄 Automated workflows reducing manual effort  
+- 🔄 Automated workflows improving efficiency  
 - 📈 Worked with real-world datasets & pipelines  
 
 ---
@@ -108,16 +112,16 @@
 - 🤖 LLMs & Advanced AI systems  
 - ☁️ Cloud + MLOps  
 - 🧠 Scalable AI architecture  
-- ⚙️ Backend engineering (APIs, systems design)  
+- ⚙️ Backend systems & APIs  
 
 ---
 
 ## 🎯 Goals
 
 - Build impactful AI systems  
-- Crack top internships  
-- Prepare for MS in USA  
+- Crack top tech internships  
 - Contribute to open-source AI  
+- Strengthen system design & engineering depth  
 
 ---
 
@@ -139,5 +143,5 @@
 ---
 
 <p align="center">
-  🚀 Becoming a world-class AI Engineer
+  🚀 Becoming a high-impact AI Engineer
 </p>
