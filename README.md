@@ -1,26 +1,23 @@
-<!-- ===== BANNER ===== -->
+<!-- ===== CLEAN PREMIUM BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Vikram%20Madhad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e293b&height=180&section=header&text=Vikram%20Madhad&fontSize=42&fontColor=38BDF8&animation=fadeIn"/>
 </p>
 
-<!-- ===== HEADER ===== -->
 <h1 align="center">⚡ Vikram Madhad ⚡</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thevikramrajput&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=thevikramrajput&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer;Deep+Learning+Enthusiast;Automation+%26+Cloud+Explorer;Building+Impactful+Systems&center=true&width=600&height=50">
 </p>
 
----
-
 <p align="center">
   💡 Bridging AI, Automation & Scalable Systems
 </p>
 
----
+<br>
 
 ## 🚀 About Me
 
@@ -30,7 +27,7 @@
 - ☁️ Exploring **Cloud + Scalable AI Systems**  
 - 🔄 Experience with **Automation & Workflow Optimization**  
 
----
+<br>
 
 ## 🛠 Tech Stack
 
@@ -43,8 +40,6 @@
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
----
-
 ### 🧩 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -53,16 +48,12 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
----
-
 ### ⚙️ Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
-
----
 
 ### ☁️ Cloud & Platforms
 <p>
@@ -71,15 +62,11 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
----
-
 ### 🔄 Automation
 <p>
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
 </p>
-
----
 
 ### ⚙️ Dev & Systems
 <p>
@@ -87,7 +74,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<br>
 
 ## 📊 GitHub Intelligence
 
@@ -96,7 +83,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevikramrajput&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
 
 ## 🏆 Experience Snapshot
 
@@ -105,7 +92,7 @@
 - 🔄 Automated workflows improving efficiency  
 - 📈 Worked with real-world datasets & pipelines  
 
----
+<br>
 
 ## 📚 Currently Learning
 
@@ -114,7 +101,7 @@
 - 🧠 Scalable AI architecture  
 - ⚙️ Backend systems & APIs  
 
----
+<br>
 
 ## 🎯 Goals
 
@@ -123,24 +110,30 @@
 - Contribute to open-source AI  
 - Strengthen system design & engineering depth  
 
----
+<br>
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thevikramrajput/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:vikrammadhad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://thevikramrajput.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.instagram.com/thevikramrajput/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thevikramrajput/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vikrammadhad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://thevikramrajput.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/thevikramrajput/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
----
+<br>
 
 ## ⚡ Philosophy
 
 > "Consistency builds mastery. Execution builds impact."
-
----
 
 <p align="center">
   🚀 Becoming a high-impact AI Engineer
