@@ -123,7 +123,7 @@
   <a href="mailto:vikrammadhad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://thevikramrajput.github.io">
+  <a href="https://thevikramrajput.in">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/thevikramrajput/">
